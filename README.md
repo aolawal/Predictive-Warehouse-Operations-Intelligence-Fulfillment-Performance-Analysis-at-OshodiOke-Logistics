@@ -230,3 +230,67 @@ Implement carrier performance scorecards.
 Establish early-warning alerts for orders approaching dispatch deadlines.
 
 Management priority: Improve dispatch reliability and prevent avoidable service failures.
+
+
+## Predictive Insights & Operational Recommendations
+
+### 7.1 Orders-at-Risk Framework
+
+The proposed framework aims to identify orders at risk of missing dispatch deadlines by monitoring key operational indicators:
+
+- **Inventory Availability:** Stock shortages and backorders.
+- **Warehouse Backlogs:** Orders awaiting picking, packing, or dispatch.
+- **Labor Productivity:** Declining processing efficiency.
+- **Dispatch Deadlines:** Orders approaching cut-off without sufficient fulfillment progress.
+
+Combining these indicators enables operations teams to prioritize at-risk orders and intervene before service commitments are missed.
+
+### 7.2 Operational Risk Assessment
+
+Current performance indicators highlight three critical areas requiring management attention:
+
+| Risk Area | Key Indicators | Business Implication |
+|:---|:---|:---|
+| Service Reliability | 90% OTD; 1,000 late shipments | Delivery performance gaps |
+| Fulfillment Quality | 12% return rate; 3,000 returns | Potential quality issues and reverse-logistics costs |
+| Operational Capacity | 1M+ units; 150 employees | Need to assess workforce productivity and capacity utilization |
+
+**Early-Warning Indicators:** Orders awaiting picking and packing, backordered quantities, warehouse utilization, labor productivity, and inventory availability.
+
+Monitoring these indicators provides earlier visibility into potential bottlenecks before they affect service performance.
+
+### 7.3 Management Recommendations
+
+| Timeline | Priority Actions |
+|:---|:---|
+| **0–90 Days** | Deploy dispatch risk monitoring, improve picking and packing accuracy, and introduce standardized warehouse KPI scorecards. |
+| **3–12 Months** | Develop workforce and capacity forecasting, establish productivity benchmarks, and implement backlog monitoring. |
+
+### 7.4 Strategic Recommendation
+
+Management should prioritize developing a **Predictive Warehouse Operations Control Tower** to integrate:
+
+- Order Risk Monitoring
+- Backlog Forecasting
+- Workforce and Capacity Planning
+- Warehouse Productivity Intelligence
+- Service-Level Risk Prediction
+
+**Expected Business Impact**
+
+- Fewer late shipments.
+- Reduced avoidable returns.
+- Lower operating and overtime costs.
+- Improved workforce productivity.
+- Better inventory and capacity utilization.
+- Stronger customer satisfaction and profitability.
+
+### Executive Conclusion
+
+Oshodi-Oke Logistics has significant operational scale, but its 90% On-Time Delivery rate, 1,000 late shipments, and 12% return rate highlight opportunities to improve fulfillment reliability and operational efficiency.
+
+The priority is to move beyond retrospective reporting toward proactive operational management.
+
+By connecting warehouse KPIs with early-warning indicators and predictive risk monitoring, management can identify emerging bottlenecks, prioritize at-risk orders, and intervene before service failures occur.
+
+**The competitive advantage is not simply processing more orders. It is identifying operational risks earlier, making faster decisions, and consistently delivering on customer commitments.**
