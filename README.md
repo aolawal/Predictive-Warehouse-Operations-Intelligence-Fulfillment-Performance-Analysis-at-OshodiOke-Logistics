@@ -234,7 +234,7 @@ Management priority: Improve dispatch reliability and prevent avoidable service 
 
 ## Predictive Insights & Operational Recommendations
 
-### 7.1 Orders-at-Risk Framework
+### Orders-at-Risk Framework
 
 The proposed framework aims to identify orders at risk of missing dispatch deadlines by monitoring key operational indicators:
 
@@ -245,7 +245,7 @@ The proposed framework aims to identify orders at risk of missing dispatch deadl
 
 Combining these indicators enables operations teams to prioritize at-risk orders and intervene before service commitments are missed.
 
-### 7.2 Operational Risk Assessment
+### Operational Risk Assessment
 
 Current performance indicators highlight three critical areas requiring management attention:
 
@@ -259,14 +259,14 @@ Current performance indicators highlight three critical areas requiring manageme
 
 Monitoring these indicators provides earlier visibility into potential bottlenecks before they affect service performance.
 
-### 7.3 Management Recommendations
+### Management Recommendations
 
 | Timeline | Priority Actions |
 |:---|:---|
 | **0–90 Days** | Deploy dispatch risk monitoring, improve picking and packing accuracy, and introduce standardized warehouse KPI scorecards. |
 | **3–12 Months** | Develop workforce and capacity forecasting, establish productivity benchmarks, and implement backlog monitoring. |
 
-### 7.4 Strategic Recommendation
+### Strategic Recommendation
 
 Management should prioritize developing a **Predictive Warehouse Operations Control Tower** to integrate:
 
